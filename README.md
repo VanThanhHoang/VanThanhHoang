@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VanThanhHoang
-- 👀 I’m interested in react native and nodeJS
+- 👀 I’m interested in React native and Android Native (Java,Kotlin)
 - 🌱 I’m currently learning mobile development
 - 📫 How to reach me : hoanvanthanhdev@gmail.com or +84338030688
