@@ -8,13 +8,13 @@
 
 **DESIGNATION:** Full-Stack Mobile & Backend Developer  
 **LOCATION:** Ho Chi Minh City, Vietnam  
-**STATUS:** [ACTIVE] Seeking New Opportunities
+**STATUS:** <span style="color: #00ff00">[ACTIVE]</span> Seeking New Opportunities
 
 ---
 
 ## TECH.STACK
 
-### Mobile Development
+### <span style="color: #00d9ff">Mobile Development</span>
 - React Native
 - TypeScript
 - JavaScript
@@ -22,12 +22,12 @@
 - Java
 - Kotlin
 
-### Backend Engineering
+### <span style="color: #ff6b6b">Backend Engineering</span>
 - Node.js
 - Express.js
 - NestJS
 
-### System Administration
+### <span style="color: #ffd93d">System Administration</span>
 - Linux
 
 ---
@@ -38,18 +38,18 @@ $ cat contact.info
 ```
 
 **SECURE CHANNELS:**
-- **MAIL** → hoanvanthanhdev@gmail.com
-- **VOICE** → +84338030688
-- **SOCIAL** → facebook.com/yungrd1
+- **MAIL** → <span style="color: #00d9ff">hoanvanthanhdev@gmail.com</span>
+- **VOICE** → <span style="color: #00d9ff">+84338030688</span>
+- **SOCIAL** → <span style="color: #00d9ff">facebook.com/yungrd1</span>
 
 ---
 
 ## CAREER.STATUS
-```
-> AVAILABILITY: OPEN
-> SEEKING: Full-time Positions
-> COLLABORATION: Enabled
-> NEW_CONNECTIONS: Accepting
+```diff
++ AVAILABILITY: OPEN
++ SEEKING: Full-time Positions
++ COLLABORATION: Enabled
++ NEW_CONNECTIONS: Accepting
 ```
 
 ---
@@ -57,3 +57,10 @@ $ cat contact.info
 [root@localhost ~]# exit
 Connection to future.opportunities established.
 ```
+
+<div align="center">
+  
+![GitHub Stats](https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge)
+![Open for Work](https://img.shields.io/badge/OPEN_FOR_WORK-YES-00d9ff?style=for-the-badge)
+
+</div>
